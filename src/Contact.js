@@ -6,57 +6,57 @@ function Contact({ _class }) {
   // Neel Gajera
   return (
     <div className={_class}>
-      <div class="section testi text-center has-bg-image">
-        <div class="container">
-          <div class="quote">”</div>
+      <div className="section testi text-center has-bg-image">
+        <div className="container">
+          <div className="quote">”</div>
 
-          <p class="headline-2 testi-text">
+          <p className="headline-2 testi-text">
             I wanted to thank you for inviting me down for that amazing dinner
             the other night. The food was extraordinary.
           </p>
 
-          <div class="wrapper">
-            <div class="separator"></div>
-            <div class="separator"></div>
-            <div class="separator"></div>
+          <div className="wrapper">
+            <div className="separator"></div>
+            <div className="separator"></div>
+            <div className="separator"></div>
           </div>
 
-          <div class="profile">
+          <div className="profile">
             <img
               src={testiAvatar}
               width="100"
               height="100"
               loading="lazy"
               alt="Sam Jhonson"
-              class="img"
+              className="img"
             />
 
-            <p class="label-2 profile-name">Sam Jhonson</p>
+            <p className="label-2 profile-name">Sam Jhonson</p>
           </div>
         </div>
       </div>
 
-      <div class="reservation">
-        <div class="container">
-          <div class="form reservation-form bg-black-10">
-            <form action="" class="form-left">
-              <h2 class="headline-1 text-center">Online Reservation</h2>
+      <div className="reservation">
+        <div className="container">
+          <div className="form reservation-form bg-black-10">
+            <form action="" className="form-left">
+              <h2 className="headline-1 text-center">Online Reservation</h2>
 
-              <p class="form-text text-center">
+              <p className="form-text text-center">
                 Booking request{" "}
-                <a href="tel:+88123123456" class="link">
+                <a href="tel:+88123123456" className="link">
                   +88-123-123456 {" "}
                 </a>
                  or fill out the order form
               </p>
 
-              <div class="input-wrapper">
+              <div className="input-wrapper">
                 <input
                   type="text"
                   name="name"
                   placeholder="Your Name"
                   autocomplete="off"
-                  class="input-field"
+                  className="input-field"
                 />
 
                 <input
@@ -64,15 +64,15 @@ function Contact({ _class }) {
                   name="phone"
                   placeholder="Phone Number"
                   autocomplete="off"
-                  class="input-field"
+                  className="input-field"
                 />
               </div>
 
-              <div class="input-wrapper">
-                <div class="icon-wrapper">
+              <div className="input-wrapper">
+                <div className="icon-wrapper">
                   <ion-icon name="person-outline" aria-hidden="true"></ion-icon>
 
-                  <select name="person" class="input-field">
+                  <select name="person" className="input-field">
                     <option value="1-person">1 Person</option>
                     <option value="2-person">2 Person</option>
                     <option value="3-person">3 Person</option>
@@ -85,7 +85,7 @@ function Contact({ _class }) {
                   <ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
                 </div>
 
-                <div class="icon-wrapper">
+                <div className="icon-wrapper">
                   <ion-icon
                     name="calendar-clear-outline"
                     aria-hidden="true"
@@ -94,16 +94,16 @@ function Contact({ _class }) {
                   <input
                     type="date"
                     name="reservation-date"
-                    class="input-field"
+                    className="input-field"
                   />
 
                   <ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
                 </div>
 
-                <div class="icon-wrapper">
+                <div className="icon-wrapper">
                   <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 
-                  <select name="person" class="input-field">
+                  <select name="person" className="input-field">
                     <option value="08:00am">08 : 00 am</option>
                     <option value="09:00am">09 : 00 am</option>
                     <option value="010:00am">10 : 00 am</option>
@@ -129,49 +129,49 @@ function Contact({ _class }) {
                 name="message"
                 placeholder="Message"
                 autocomplete="off"
-                class="input-field"
+                className="input-field"
               ></textarea>
 
-              <button type="button" class="btn btn-secondary">
-                <span class="text text-1">Book A Table</span>
+              <button type="button" className="btn btn-secondary">
+                <span className="text text-1">Book A Table</span>
 
-                <span class="text text-2" aria-hidden="true">
+                <span className="text text-2" aria-hidden="true">
                   Book A Table
                 </span>
               </button>
             </form>
 
-            <div class="form-right text-center">
-              <h2 class="headline-1 text-center">Contact Us</h2>
+            <div className="form-right text-center">
+              <h2 className="headline-1 text-center">Contact Us</h2>
 
-              <p class="contact-label">Booking Request</p>
+              <p className="contact-label">Booking Request</p>
 
               <a
                 href="tel:+88123123456"
-                class="body-1 contact-number hover-underline"
+                className="body-1 contact-number hover-underline"
               >
                 +88-123-123456
               </a>
 
-              <div class="separator"></div>
+              <div className="separator"></div>
 
-              <p class="contact-label">Location</p>
+              <p className="contact-label">Location</p>
 
-              <address class="body-4">
+              <address className="body-4">
                 Restaurant St, Delicious City, <br />
                 London 9578, UK
               </address>
 
-              <p class="contact-label">Lunch Time</p>
+              <p className="contact-label">Lunch Time</p>
 
-              <p class="body-4">
+              <p className="body-4">
                 Monday to Sunday <br />
                 11.00 am - 2.30pm
               </p>
 
-              <p class="contact-label">Dinner Time</p>
+              <p className="contact-label">Dinner Time</p>
 
-              <p class="body-4">
+              <p className="body-4">
                 Monday to Sunday <br />
                 05.00 pm - 10.00pm
               </p>

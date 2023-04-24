@@ -53,7 +53,7 @@ function App() {
       {/* #BACK TO TOP */}
       <a
         href="#top"
-        class="back-top-btn active"
+        className="back-top-btn active"
         aria-label="back to top"
         data-back-top-btn
         alt=""

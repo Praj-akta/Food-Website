@@ -9,48 +9,48 @@ function Specials({ _class }) {
   // Tesha Patel
   return (
     <div className={_class}>
-      <div class="special-dish text-center">
-        <div class="special-dish-banner">
+      <div className="special-dish text-center">
+        <div className="special-dish-banner">
           <img
             src={specialDish}
             width="940"
             height="900"
             loading="lazy"
             alt="special dish"
-            class="img-cover"
+            className="img-cover"
           />
         </div>
 
-        <div class="special-dish-content">
-          <div class="container">
+        <div className="special-dish-content">
+          <div className="container">
             <img
               src={badge1}
               width="28"
               height="41"
               loading="lazy"
               alt="badge"
-              class="abs-img"
+              className="abs-img"
             />
 
-            <p class="section-subtitle label-2">Special Dish</p>
+            <p className="section-subtitle label-2">Special Dish</p>
 
-            <h2 class="headline-1 section-title">Chicken Tortellini</h2>
+            <h2 className="headline-1 section-title">Chicken Tortellini</h2>
 
-            <p class="section-text">
+            <p className="section-text">
               This Italian Chicken Tortellini is just another way to prove that
               tortellini is just that good. It's made with cheese tortellini,
               pan-seared bites of chicken, and veggies simmered in a creamy
               sauce a nd topped with mozzarella and parmesan.
             </p>
 
-            <div class="wrapper">
-              <span class="span body-1">$20.00</span>
+            <div className="wrapper">
+              <span className="span body-1">$20.00</span>
             </div>
 
-            <a href="/" class="btn btn-primary">
-              <span class="text text-1">View All Menu</span>
+            <a href="/" className="btn btn-primary">
+              <span className="text text-1">View All Menu</span>
 
-              <span class="text text-2" aria-hidden="true">
+              <span className="text text-2" aria-hidden="true">
                 View All Menu
               </span>
             </a>
@@ -63,7 +63,7 @@ function Specials({ _class }) {
           height="359"
           loading="lazy"
           alt=""
-          class="shape shape-1"
+          className="shape shape-1"
         />
 
         <img
@@ -72,7 +72,7 @@ function Specials({ _class }) {
           height="462"
           loading="lazy"
           alt=""
-          class="shape shape-2"
+          className="shape shape-2"
         />
       </div>
     </div>
