@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Food-Website/static/css/main.f078cd81.css",
+    "main.js": "/Food-Website/static/js/main.016d84a6.js",
+    "static/media/hero-slider-1.jpg": "/Food-Website/static/media/hero-slider-1.5d6b1261aee9578c7890.jpg",
+    "static/media/footer-bg.jpg": "/Food-Website/static/media/footer-bg.70137cc48cb63d996d15.jpg",
+    "static/media/special-dish-banner.jpg": "/Food-Website/static/media/special-dish-banner.f80fb10fcb1e831673ef.jpg",
+    "static/media/about-banner.jpg": "/Food-Website/static/media/about-banner.d8970df6c874afa76e83.jpg",
+    "static/media/img-pattern.svg": "/Food-Website/static/media/img-pattern.148d9c075c75a3e657f7.svg",
+    "static/media/shape-5.png": "/Food-Website/static/media/shape-5.bd2617fcd17e98d4fb1a.png",
+    "static/media/service-2.jpg": "/Food-Website/static/media/service-2.802d611c2b53e6213952.jpg",
+    "static/media/service-3.jpg": "/Food-Website/static/media/service-3.88a4fe36404bc5e02769.jpg",
+    "static/media/shape-9.png": "/Food-Website/static/media/shape-9.087de47228d164d01959.png",
+    "static/media/logo.png": "/Food-Website/static/media/logo.d60997df034b811b7f0a.png",
+    "static/media/about-abs-image.jpg": "/Food-Website/static/media/about-abs-image.ee12692b034b066f8444.jpg",
+    "static/media/service-1.jpg": "/Food-Website/static/media/service-1.7157d0cabba158f86dc5.jpg",
+    "static/media/footer-form-pattern.svg": "/Food-Website/static/media/footer-form-pattern.7fd6cfcfb07bdb471546.svg",
+    "static/media/shape-6.png": "/Food-Website/static/media/shape-6.d9f18f13ec963b9bbdf4.png",
+    "static/media/footer-form-bg.png": "/Food-Website/static/media/footer-form-bg.5919ceba950c7c4cb214.png",
+    "static/media/form-pattern.png": "/Food-Website/static/media/form-pattern.1b0559e0aa951b970a3a.png",
+    "static/media/shape-2.png": "/Food-Website/static/media/shape-2.70efc621025dee1d0cd0.png",
+    "static/media/shape-1.png": "/Food-Website/static/media/shape-1.49c2515366d3a9d70158.png",
+    "static/media/shape-3.png": "/Food-Website/static/media/shape-3.d723212f159170c7f95b.png",
+    "static/media/separator.svg": "/Food-Website/static/media/separator.b98c0c4c2ec1b7cd5908.svg",
+    "index.html": "/Food-Website/index.html",
+    "main.f078cd81.css.map": "/Food-Website/static/css/main.f078cd81.css.map",
+    "main.016d84a6.js.map": "/Food-Website/static/js/main.016d84a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f078cd81.css",
+    "static/js/main.016d84a6.js"
+  ]
+}
